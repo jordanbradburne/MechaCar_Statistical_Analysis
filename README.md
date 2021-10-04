@@ -31,17 +31,17 @@
 ### Lot Summary:
 <img width="494" alt="lot_summary" src="https://user-images.githubusercontent.com/85847344/135796976-bd2b0a2b-f1ab-45e3-8304-d0990f9f65b5.png">
 
-1. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
-* The manufacturing lots grouped together meet the design specification; the variance on PSI is 76.
+ * The manufacturing lots grouped together meet the design specification; the variance on PSI is 76.
 
-* Individually:
+ * Individually:
     * Lot 1 and 2 meet the design specifications. They have the variance on PSI as 1 and 10 respectively.
     * Lot 3 does not meet the design specification with variance on PSI at 220.
 
 ## T-Tests on Suspension Coils
 
-1. Summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+Summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
 ### Perform t-test across all Lots:
 * For all t-tests, the significance level was 0.05 percent. The t-test compared the means of the Suspension Coil dataset, 1498.78, a mean of 1500. All t-tests resulted in the means being statistically similar.
@@ -74,15 +74,15 @@
 ### Description of Statistical Study:
 Owning and maintaining a vehicle can be costly, so AutosRUs wants to ensure that their customers are going to get the better deal over their competitors. Thus means they would like to measure the rate of depreciation for MechaCars against other manufacturers.
 
-## Metric to Test
+### Metric to Test
 Rate of depreciation: the value of the vehicle over time
 
-## Null and Alternate Hypothesis
+### Null and Alternate Hypothesis
 Null hypothesis: Rate of depreciation for MechaCars is equal to the competitors
 Alternative hypothesis: Rate of depreciation for MechaCars is not equal to the competitors
 
-## Statistical Test Used
+### Statistical Test Used
 Use multiple linear regression to predict the rate of depreciation for MechaCar
 
-## What Data is Needed
+### What Data is Needed
 Data needed will be vehicle values, age, and mileage to perform multiple linear regression.
