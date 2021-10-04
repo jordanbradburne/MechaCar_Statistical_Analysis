@@ -23,7 +23,7 @@
 
    * The Multiple R-squared value is 0.7149, which means that the model predicts MPG of MechaCar effectively at a 71% rate. But there is. possibility that there will be more factors not included in this dataset that could make a better prediction.
 
-## Summary Statistics on Suspension Coils
+## 2. Summary Statistics on Suspension Coils
 
 ### Total Summary:
 <img width="336" alt="total_summary" src="https://user-images.githubusercontent.com/85847344/135796860-3098945f-7b5c-436f-90d7-2e6513fdb154.png">
@@ -39,7 +39,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
     * Lot 1 and 2 meet the design specifications. They have the variance on PSI as 1 and 10 respectively.
     * Lot 3 does not meet the design specification with variance on PSI at 220.
 
-## T-Tests on Suspension Coils
+## 3. T-Tests on Suspension Coils
 
 Summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
@@ -69,7 +69,7 @@ Summarize your interpretation and findings for the t-test results. Include scree
 
 <img width="451" alt="Screen Shot 2021-10-03 at 10 08 50 PM" src="https://user-images.githubusercontent.com/85847344/135797400-ba42b854-616f-4816-88f9-cb0df13ac7da.png">
 
-## Study Design: MechaCar vs Competition
+## 4. Study Design: MechaCar vs Competition
 
 ### Description of Statistical Study:
 Owning and maintaining a vehicle can be costly, so AutosRUs wants to ensure that their customers are going to get the better deal over their competitors. Thus means they would like to measure the rate of depreciation for MechaCars against other manufacturers.
