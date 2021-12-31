@@ -6,6 +6,12 @@
 3. Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 4. Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
 
+## Deliverables:
+1. Deliverable 1: Linear Regression to Predict MPG
+2. Deliverable 2: Summary Statistics on Suspension Coils
+3. Deliverable 3: T-Test on Suspension Coils
+4. Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+
 ## 1. Linear Regression to Predict MPG
 
 <img width="474" alt="Screen Shot 2021-10-03 at 9 55 02 PM" src="https://user-images.githubusercontent.com/85847344/135796413-585b15c2-cbc9-407b-8c40-fda5ca035b65.png">
